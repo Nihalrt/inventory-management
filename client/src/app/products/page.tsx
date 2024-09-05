@@ -16,7 +16,7 @@ type ProductFormData ={
 }
 
 
-const products = () => {
+const Products = () => {
     const[search, setSearch] = useState("");
     const [isModalOpen, setIsModalOpen] = useState(false)
 
@@ -90,4 +90,4 @@ const products = () => {
   )
 }
 
-export default products
+export default Products
