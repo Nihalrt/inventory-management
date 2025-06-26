@@ -50,7 +50,7 @@ This project is a full-stack inventory management dashboard that allows users to
 
 ## Project Link
 
-[https://master.d2o7lfqfv6xv4x.amplifyapp.com](https://master.d2o7lfqfv6xv4x.amplifyapp.com)
+https://dummyrepo-beta.vercel.app/
 
 ## Author
 
